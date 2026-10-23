@@ -1,0 +1,21 @@
+# Logs and generated output
+*.log
+logs/
+
+# Backup archives
+*.tar.gz
+backups/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary/editor files
+*.tmp
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
