@@ -4,4 +4,6 @@ services:
     container_name: my-devops-app
     ports:
       - "8081:80"
+    env_file:
+      - .env
     restart: unless-stopped
