@@ -11,6 +11,8 @@ Hands-on Linux administration and DevOps practice using Ubuntu on WSL2.
 - **DevOps:** Automation and deployment scripts.
 - **Permissions:** Linux file permissions.
 
+- **Docker:** Custom Nginx image, Docker Compose, environment variables, volumes, networking, health checks, and container troubleshooting.
+
 ## Tech Stack
 
 Bash · Linux · Ubuntu · Git · Cron · WSL2
